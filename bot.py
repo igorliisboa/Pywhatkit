@@ -1,3 +1,4 @@
+#pip install pywhatkit
 import pywhatkit as kt
 
 lista_de_numeros = ["COLOQUE O(S) NÚMERO(S) AQUI"]
