@@ -1,2 +1,2 @@
-# pywhatkit
-Automatizando mensagens do WhatsApp com Python utilizando a biblioteca pywhatkit
+# Pywhatkit
+Automatizando mensagens do WhatsApp com Python utilizando a biblioteca Pywhatkit
